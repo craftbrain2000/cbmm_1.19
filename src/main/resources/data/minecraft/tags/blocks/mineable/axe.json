@@ -1,0 +1,58 @@
+
+{
+  "replace": false,
+  "values": [
+
+
+    "cbmm:black_wood",
+    "cbmm:blue_wood",
+    "cbmm:brown_wood",
+    "cbmm:cyan_wood",
+    "cbmm:green_wood",
+    "cbmm:grey_wood",
+    "cbmm:light_blue_wood",
+    "cbmm:light_grey_wood",
+    "cbmm:lime_wood",
+    "cbmm:magenta_wood",
+    "cbmm:orange_wood",
+    "cbmm:pink_wood",
+    "cbmm:purple_wood",
+    "cbmm:red_wood",
+    "cbmm:white_wood",
+    "cbmm:yellow_wood",
+
+    "cbmm:black_wood_slab",
+    "cbmm:blue_wood_slab",
+    "cbmm:brown_wood_slab",
+    "cbmm:cyan_wood_slab",
+    "cbmm:green_wood_slab",
+    "cbmm:grey_wood_slab",
+    "cbmm:light_blue_wood_slab",
+    "cbmm:light_grey_wood_slab",
+    "cbmm:lime_wood_slab",
+    "cbmm:magenta_wood_slab",
+    "cbmm:orange_wood_slab",
+    "cbmm:pink_wood_slab",
+    "cbmm:purple_wood_slab",
+    "cbmm:red_wood_slab",
+    "cbmm:white_wood_slab",
+    "cbmm:yellow_wood_slab",
+
+    "cbmm:black_wood_stairs",
+    "cbmm:blue_wood_stairs",
+    "cbmm:brown_wood_stairs",
+    "cbmm:cyan_wood_stairs",
+    "cbmm:green_wood_stairs",
+    "cbmm:grey_wood_stairs",
+    "cbmm:light_blue_wood_stairs",
+    "cbmm:light_grey_wood_stairs",
+    "cbmm:lime_wood_stairs",
+    "cbmm:magenta_wood_stairs",
+    "cbmm:orange_wood_stairs",
+    "cbmm:pink_wood_stairs",
+    "cbmm:purple_wood_stairs",
+    "cbmm:red_wood_stairs",
+    "cbmm:white_wood_stairs",
+    "cbmm:yellow_wood_stairs"
+  ]
+}

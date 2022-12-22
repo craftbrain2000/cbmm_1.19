@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "cbmm:iron_supported_stone",
+    "cbmm:iron_support",
+    "cbmm:science_cube"
+  ]
+}

@@ -3,6 +3,8 @@ package net.craftbrain2000.cbmm;
 import com.mojang.logging.LogUtils;
 import net.craftbrain2000.cbmm.block.ModBlocks;
 import net.craftbrain2000.cbmm.item.ModItems;
+import net.minecraft.client.renderer.ItemBlockRenderTypes;
+import net.minecraft.client.renderer.RenderType;
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.eventbus.api.IEventBus;
@@ -32,6 +34,7 @@ public class CBMM {
     }
 
     private void commonSetup(final FMLCommonSetupEvent event) {
+        ItemBlockRenderTypes.setRenderLayer(ModBlocks.IRON_SUPPORT.get(), RenderType.cutout());
 
     }
 

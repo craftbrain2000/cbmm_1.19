@@ -23,6 +23,8 @@ public class ModItems {
             () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MATERIALS)));
     public static final RegistryObject<Item> BOURSSITE_INGOT = ITEMS.register("bourssite_ingot",
             () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MATERIALS)));
+    public static final RegistryObject<Item> RAW_BOURSSITE = ITEMS.register("raw_bourssite",
+            () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MATERIALS)));
 
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);
