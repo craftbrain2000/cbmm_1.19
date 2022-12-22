@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:diamond_hoe"
+    },
+    {
+      "item": "cbmm:bourssite_ingot"
+    },
+    {
+      "item": "cbmm:bourssite_ingot"
+    },
+    {
+      "item": "cbmm:bourssite_ingot"
+    },
+    {
+      "item": "cbmm:bourssite_ingot"
+    },
+    {
+      "item": "cbmm:bourssite_ingot"
+    },
+    {
+      "item": "cbmm:bourssite_ingot"
+    },
+    {
+      "item": "cbmm:bourssite_ingot"
+    },
+    {
+      "item": "cbmm:bourssite_ingot"
+    }
+  ],
+  "result":
+  {
+    "item": "cbmm:bourssite_hoe",
+    "count": 1
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "   ",
+    "XX ",
+    "XX "
+  ],
+  "key":
+  {
+    "X":
+    {
+      "item": "minecraft_iron_bar"
+    }
+  },
+  "result":
+  {
+    "item": "cbmm:iron_support",
+    "count": 4
+  }
+}

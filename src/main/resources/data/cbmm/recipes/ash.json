@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "   ",
+    "Z  ",
+    "X  "
+  ],
+  "key":
+  {
+    "X":
+    {
+      "item": "minecraft:gunpowder"
+    },
+
+    "Z":
+    {
+      "item": "minecraft:coal"
+    }
+  },
+  "result":
+  {
+    "item": "cbmm:ash",
+    "count": 4
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "   ",
+    "   ",
+    "XXX"
+  ],
+  "key":
+  {
+    "X":
+    {
+      "item": "minecraft:orange_concrete"
+    }
+  },
+  "result":
+  {
+    "item": "cbmm:orange_concrete_slab",
+    "count": 6
+  }
+}

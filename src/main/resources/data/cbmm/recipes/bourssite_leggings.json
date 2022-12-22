@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:diamond_leggings"
+    },
+    {
+      "item": "cbmm:bourssite_ingot"
+    },
+    {
+      "item": "cbmm:bourssite_ingot"
+    },
+    {
+      "item": "cbmm:bourssite_ingot"
+    },
+    {
+      "item": "cbmm:bourssite_ingot"
+    },
+    {
+      "item": "cbmm:bourssite_ingot"
+    },
+    {
+      "item": "cbmm:bourssite_ingot"
+    },
+    {
+      "item": "cbmm:bourssite_ingot"
+    },
+    {
+      "item": "cbmm:bourssite_ingot"
+    }
+  ],
+  "result":
+  {
+    "item": "cbmm:bourssite_leggings",
+    "count": 1
+  }
+}

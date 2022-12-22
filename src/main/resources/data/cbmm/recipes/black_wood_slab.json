@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "   ",
+    "   ",
+    "XXX"
+  ],
+  "key":
+  {
+    "X":
+    {
+      "item": "cbmm:black_wood"
+    }
+  },
+  "result":
+  {
+    "item": "cbmm:black_wood_slab",
+    "count": 6
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:netherite_scrap"
+    },
+    {
+      "item": "cbmm:corrupted_shard"
+    },
+    {
+      "item": "cbmm:corrupted_shard"
+    },
+    {
+      "item": "cbmm:corrupted_shard"
+    },
+    {
+      "item": "cbmm:corrupted_shard"
+    },
+    {
+      "item": "cbmm:super_slime"
+    },
+    {
+      "item": "cbmm:super_slime"
+    },
+    {
+      "item": "cbmm:super_slime"
+    },
+    {
+      "item": "cbmm:super_slime"
+    }
+  ],
+  "result":
+  {
+    "item": "cbmm:corrupted_diamond",
+    "count": 1
+  }
+}

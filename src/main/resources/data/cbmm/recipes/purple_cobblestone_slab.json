@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "   ",
+    "   ",
+    "XXX"
+  ],
+  "key":
+  {
+    "X":
+    {
+      "item": "cbmm:purple_cobblestone"
+    }
+  },
+  "result":
+  {
+    "item": "cbmm:purple_cobblestone_slab",
+    "count": 6
+  }
+}

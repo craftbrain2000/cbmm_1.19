@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "   ",
+    "   ",
+    "XXX"
+  ],
+  "key":
+  {
+    "X":
+    {
+      "item": "cbmm:pink_wood"
+    }
+  },
+  "result":
+  {
+    "item": "cbmm:pink_wood_slab",
+    "count": 6
+  }
+}

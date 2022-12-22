@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "   ",
+    "XX ",
+    "XX "
+  ],
+  "key":
+  {
+    "X":
+    {
+      "item": "cbmm:polished_ashnite"
+    }
+  },
+  "result":
+  {
+    "item": "cbmm:ashnite_bricks",
+    "count": 4
+  }
+}

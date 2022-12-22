@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "   ",
+    "   ",
+    "XXX"
+  ],
+  "key":
+  {
+    "X":
+    {
+      "item": "cbmm:light_blue_wood"
+    }
+  },
+  "result":
+  {
+    "item": "cbmm:light_blue_wood_slab",
+    "count": 6
+  }
+}

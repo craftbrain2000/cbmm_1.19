@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "cbmm:bourssite_ingot"
+    },
+    {
+      "item": "cbmm:bourssite_ingot"
+    },
+    {
+      "item": "cbmm:bourssite_ingot"
+    },
+    {
+      "item": "cbmm:bourssite_ingot"
+    },
+    {
+      "item": "cbmm:bourssite_ingot"
+    },
+    {
+      "item": "cbmm:bourssite_ingot"
+    },
+    {
+      "item": "cbmm:bourssite_ingot"
+    },
+    {
+      "item": "cbmm:bourssite_ingot"
+    },
+    {
+      "item": "cbmm:bourssite_ingot"
+    }
+  ],
+  "result":
+  {
+    "item": "cbmm:bourssite_block",
+    "count": 1
+  }
+}
