@@ -1,0 +1,8 @@
+
+{
+  "variants": {
+    "type=bottom": { "model": "cbmm:block/purple_wood_slab" },
+    "type=top": { "model": "cbmm:block/purple_wood_slab_top" },
+    "type=double": { "model": "cbmm:block/purple_wood" }
+  }
+}

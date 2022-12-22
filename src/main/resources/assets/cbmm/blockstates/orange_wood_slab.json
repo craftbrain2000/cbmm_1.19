@@ -1,0 +1,8 @@
+
+{
+  "variants": {
+    "type=bottom": { "model": "cbmm:block/orange_wood_slab" },
+    "type=top": { "model": "cbmm:block/orange_wood_slab_top" },
+    "type=double": { "model": "cbmm:block/orange_wood" }
+  }
+}

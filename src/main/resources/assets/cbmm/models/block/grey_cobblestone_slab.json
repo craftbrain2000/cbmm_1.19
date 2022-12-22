@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "cbmm:block/grey_cobblestone",
+    "top": "cbmm:block/grey_cobblestone",
+    "side": "cbmm:block/grey_cobblestone"
+  }
+}

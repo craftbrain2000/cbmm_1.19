@@ -1,6 +1,8 @@
 package net.craftbrain2000.cbmm;
 
 import com.mojang.logging.LogUtils;
+import net.craftbrain2000.cbmm.block.ModBlocks;
+import net.craftbrain2000.cbmm.item.ModItems;
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.eventbus.api.IEventBus;
@@ -20,6 +22,9 @@ public class CBMM {
 
     public CBMM() {
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
+
+        ModItems.register(modEventBus);
+        ModBlocks.register(modEventBus);
 
         modEventBus.addListener(this::commonSetup);
 

@@ -1,0 +1,9 @@
+
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "cbmm:block/red_cobblestone",
+    "top": "cbmm:block/red_cobblestone",
+    "side": "cbmm:block/red_cobblestone"
+  }
+}

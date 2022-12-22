@@ -1,0 +1,8 @@
+
+{
+  "variants": {
+    "type=bottom": { "model": "cbmm:block/orange_concrete_slab" },
+    "type=top": { "model": "cbmm:block/orange_concrete_slab_top" },
+    "type=double": { "model": "minecraft:block/orange_concrete" }
+  }
+}

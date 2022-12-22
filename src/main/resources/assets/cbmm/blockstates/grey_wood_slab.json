@@ -1,0 +1,8 @@
+
+{
+  "variants": {
+    "type=bottom": { "model": "cbmm:block/grey_wood_slab" },
+    "type=top": { "model": "cbmm:block/grey_wood_slab_top" },
+    "type=double": { "model": "cbmm:block/grey_wood" }
+  }
+}

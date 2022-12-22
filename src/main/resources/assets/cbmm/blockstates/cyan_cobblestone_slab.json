@@ -1,0 +1,8 @@
+
+{
+  "variants": {
+    "type=bottom": { "model": "cbmm:block/cyan_cobblestone_slab" },
+    "type=top": { "model": "cbmm:block/cyan_cobblestone_slab_top" },
+    "type=double": { "model": "cbmm:block/cyan_cobblestone" }
+  }
+}

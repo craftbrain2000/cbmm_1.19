@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "cbmm:block/white_concrete",
+    "top": "cbmm:block/white_concrete",
+    "side": "cbmm:block/white_concrete"
+  }
+}

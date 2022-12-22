@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "cbmm:block/iron_supported_stone" }
+  }
+}

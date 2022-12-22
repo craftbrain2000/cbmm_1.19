@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "":  [ { "model": "cbmm:block/marble"},
+      { "model": "cbmm:block/marble2"},
+      { "model": "cbmm:block/marble3"}
+      ]
+  }
+
+}
+
